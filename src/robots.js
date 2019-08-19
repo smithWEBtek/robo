@@ -89,34 +89,4 @@ export const robots = [
     "last": "Busson",
     "username": "abussone",
     "color": "#332"
-  }, {
-    "id": 16,
-    "first": "Lira",
-    "last": "Dorran",
-    "username": "ldorranf",
-    "color": "#10e"
-  }, {
-    "id": 17,
-    "first": "Eldin",
-    "last": "Lupson",
-    "username": "elupsong",
-    "color": "#6f3"
-  }, {
-    "id": 18,
-    "first": "Wade",
-    "last": "Whannel",
-    "username": "wwhannelh",
-    "color": "#442"
-  }, {
-    "id": 19,
-    "first": "Rollie",
-    "last": "Swinley",
-    "username": "rswinleyi",
-    "color": "#eda"
-  }, {
-    "id": 20,
-    "first": "Marla",
-    "last": "Broker",
-    "username": "mbrokerj",
-    "color": "#5ae"
   }]
